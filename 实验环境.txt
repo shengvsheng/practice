@@ -1,0 +1,2 @@
+Anacoda5.0：提供jupyter notebook，python3.6和相关包集成
+安装keras包
